@@ -48,6 +48,7 @@ Organize your Terraform project as follows:
 ## README_header.md
 
 When editing or creating `docs/README_header.md`, ensure it contains:
+
 - A description of the general purpose of the code.
 - A `Permissions` section containing the permissions required to provision resources for each provider.
 - An `Authentications` section containing the authentication details required for each provider.
@@ -56,6 +57,7 @@ When editing or creating `docs/README_header.md`, ensure it contains:
 ## README_footer.md
 
 When editing or creating `docs/README_footer.md`, ensure it contains:
+
 - An `External Documentation` section providing links to relevant external documentation used to develop the code (e.g., HashiCorp Vault Provider docs, TFE Secrets Engine documentation, Vault JWT Auth Method, and HCP Terraform API docs).
 
 ## Code Guidelines
